@@ -1,5 +1,5 @@
 # RUIP
-We provide a sample code of the RUIP method for defending against StarGAN.
+We provide a sample code of the RUIP method for defending against StarGAN. We will release the complete code soon.
 
 ## Usage
 ### Installation
@@ -18,7 +18,7 @@ We provide a sample code of the RUIP method for defending against StarGAN.
 
    The name of stargan generator model weights is *200000-G.ckpt*. We also prepare a RUIP model for you to test its performance named *ruip.tar*.
 
-   ### Inference
+### Inference
     ```
     python test.py
     ```
