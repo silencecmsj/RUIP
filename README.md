@@ -19,6 +19,7 @@ We provide a sample code of the RUIP method for defending against StarGAN. We wi
    The name of stargan generator model weights is *200000-G.ckpt*. We also prepare a RUIP model for you to test its performance named *ruip.tar*.
 
 ### Inference
-    ```
-    python test.py
-    ```
+
+   ```python
+   python test.py
+   ```
