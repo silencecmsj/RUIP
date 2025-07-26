@@ -13,7 +13,7 @@ We provide a sample code of the RUIP method for defending against StarGAN. We wi
    Download the [CelebA-HQ](https://github.com/switchablenorms/CelebAMask-HQ) datasets
 4. Prepare the Model Weights
    
-   For your convenient usage, we prepare the weights download link in [Google Drive](https://drive.google.com/file/d/1FAR90yS9JN-bX_WyAPeSxf2pc_alGLDT/view?usp=drive_link)
+   For your convenient usage, we prepare the weights download link in [Google Drive](https://drive.google.com/file/d/1FAR90yS9JN-bX_WyAPeSxf2pc_alGLDT/view?usp=drive_link).
 
    The name of stargan generator model weights is *200000-G.ckpt*. We also prepare a RUIP model for you to test its performance named *ruip.tar*.
 
